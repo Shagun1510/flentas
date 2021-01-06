@@ -28,7 +28,7 @@ STEPS:
 6.print output
 
 
-
+<img src="/shagun%20out.JPG"/>
 
 CODE:[Python 3]
 
